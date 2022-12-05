@@ -1,0 +1,102 @@
+.book-1 {
+    border-radius: 10px;
+    background-color: #EFEFEF;
+    margin-bottom: 30px;
+    width: 220px;
+    height:350px;
+}
+
+.share  {
+    color: green !important;
+}
+.favorite {
+    color: green !important;
+}
+
+.recommend  {
+    color: green !important;
+}
+
+
+.book-2 {
+    border-radius: 10px;
+    background-color: #EFEFEF;
+    margin-bottom: 30px;
+    width: 220px;
+    height:350px;
+}
+
+.book-3 {
+    border-radius: 10px;
+    background-color: #EFEFEF;
+    margin-bottom: 30px;
+    width: 220px;
+    height:350px;
+}
+
+.book-4 {
+    border-radius: 10px;
+    background-color: #EFEFEF;
+    margin-bottom: 30px;
+    width: 220px;
+    height:350px;
+}
+
+.book-5 {
+    border-radius: 10px;
+    background-color: #EFEFEF;
+    margin-bottom: 30px;
+    width: 220px;
+    height:350px;
+}
+
+.book-6 {
+    border-radius: 10px;
+    background-color: #EFEFEF;
+    margin-bottom: 30px;
+    width: 220px;
+    height:350px;
+}
+.word {
+    margin-bottom: 20px;
+}
+.container {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    height:500px;
+    align-items: center;
+    overflow-y: scroll;
+}
+
+
+
+.container-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container-2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.container-3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.shareIcon {
+    margin-top: 8px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.words {
+    display: flex;
+}
+.progress {
+    margin-top: 10px;
+}

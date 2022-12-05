@@ -1,0 +1,43 @@
+.sapa {
+ background-color: #EFEFEF;
+ border-radius: 200px;
+ border: white;
+}
+
+.slime {
+    width: 70%;
+}
+.slat {
+    justify-content: space-between;
+  float: right;
+  width: 10%;
+}
+
+.moon {
+    color: black !important;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 50;
+    border-bottom: 1px solid #f9f9f9;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.header2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 50;
+    border-bottom: 1px solid #f9f9f9;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: black;
+}
+
+.volume {
+    color: green !important;
+}

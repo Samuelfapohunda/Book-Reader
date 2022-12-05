@@ -1,0 +1,11 @@
+.trap {
+overflow-y: scroll;
+   margin-left: 15px;
+   margin-right: 15px;
+   height: 500px;
+}
+
+.name{
+   height: 500px;
+   text-align: center;
+}
